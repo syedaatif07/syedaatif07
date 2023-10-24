@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Syedaatif07/Syedaatif07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/syedaatif07/syedaatif07/output/snake.svg" alt="Snake animation" />
 
 ###
