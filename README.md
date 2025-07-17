@@ -16,6 +16,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/syedaatif07/syedaatif07/output/snake.svg" alt="Snake animation" />
+
 
 ###
